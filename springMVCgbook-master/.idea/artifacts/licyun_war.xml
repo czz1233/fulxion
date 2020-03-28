@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="licyun:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="springMVCgbook.war">
-      <element id="artifact" artifact-name="licyun:war exploded" />
-    </root>
-  </artifact>
-</component>
